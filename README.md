@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarpai843" alt="adityarpai843" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, Language Models,GPT,Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **Ctrainer**
 
