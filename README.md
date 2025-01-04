@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Typescript, Language Models, GPT, Prompt Engineering**
 
-- 👯 I’m looking to collaborate on **Ctrainer**
+- 👯 I’m looking to collaborate on **LynkSync**
 
-- 🤝 I’m looking for help with **ctrainer**
+- 🤝 I’m looking for help with **LynkSync**
 
 - 👨‍💻 All of my projects are available at [https://adityarpai843.github.io](https://adityarpai843.github.io)
 
