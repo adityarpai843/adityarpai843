@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **LynkSync**
 
-- 👨‍💻 All of my projects are available at [https://adityarpai843.github.io](https://adityarpai843.github.io)
-
 - 💬 Ask me about **Clojure, Clojurescript and react**
 
 - 📫 How to reach me **adityarpai843@gmail.com**
